@@ -7,20 +7,6 @@ DarkDoc is a documentation / viewer tool (or whatever your application does — 
 
 ---
 
-## 📄 Table of Contents
-
-- [About](#about)  
-- [Features](#features)  
-- [Demo / Screenshots](#demo--screenshots)  
-- [Download & Installation](#download--installation)  
-- [Usage](#usage)  
-- [Roadmap](#roadmap)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact / Support](#contact--support)  
-
----
-
 ## About
 
 DarkDoc aims to provide users with an elegant dark-themed documentation viewer.  
@@ -44,9 +30,3 @@ Visit the live website: [DarkDocs](https://ajay23054-cps-019.github.io/DarkDocs/
 
 ---
 
-## Demo / Screenshots
-
-*(Add screenshots or GIFs here to showcase the interface)*
-
-```md
-![DarkDoc Screenshot](path/to/screenshot.png)
